@@ -1,0 +1,22 @@
+{
+  "name": "rethink-helper",
+  "version": "0.0.1",
+  "description": "A quick interface for using rethinkDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rethinkDB"
+  ],
+  "author": "Daniel Deak",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "dependencies": {
+    "rethinkdbdash": "^2.2.18"
+  }
+}
